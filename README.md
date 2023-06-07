@@ -1,4 +1,4 @@
-# Proyecto Like Me
+# Proyecto Like Me Parte 2
 
 Este proyecto es una aplicación web para compartir y dar "me gusta" a publicaciones. Permite agregar nuevos posts, dar like, eliminar y ver los posts existentes.
 
@@ -23,8 +23,9 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 
 1. Clona este repositorio en tu máquina local:
 
-```bash
-git clone https://github.com/VitoNez5198/LikeMeParte1.git 
+```
+git clone https://github.com/VitoNez5198/LikeMeParte1.git
+```
 
 2. Ve al directorio del proyecto:
 
